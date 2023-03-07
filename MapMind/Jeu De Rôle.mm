@@ -1,7 +1,7 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Jeu De Rôle" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1678040389318"><hook NAME="MapStyle" background="#2e3440" zoom="1.132">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/dark_nord_template.mm" followedTemplateLocation="template:/dark_nord_template.mm" followedMapLastTime="1678034560173"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/dark_nord_template.mm" followedTemplateLocation="template:/dark_nord_template.mm" followedMapLastTime="1678034560173" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -77,13 +77,13 @@
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<node TEXT="Première scéance" POSITION="right" ID="ID_131828189" CREATED="1678040390552" MODIFIED="1678040748100">
+<node TEXT="Première scéance" POSITION="right" ID="ID_131828189" CREATED="1678040390552" MODIFIED="1678202709240">
 <node TEXT="intro au JDR" ID="ID_1355228737" CREATED="1678040486959" MODIFIED="1678040501705"/>
-<node TEXT="Un vol et un meurtre on lieu dans l&apos;auberge ou sont les personages en fonction de leur choix les joueurs trouverons ce qui se trame et peu être réussirons à déjouer les terribles plans des dernier puck dissident" ID="ID_751861480" CREATED="1678040502709" MODIFIED="1678040759108">
+<node TEXT="Un vol et un meurtre on lieu dans l&apos;auberge ou sont les personages en fonction de leur choix les joueurs trouverons ce qui se trame et peu être réussirons à déjouer les terribles plans des dernier puck dissident" ID="ID_751861480" CREATED="1678040502709" MODIFIED="1678202709239" HGAP_QUANTITY="14.75 pt" VSHIFT_QUANTITY="-5.25 pt">
 <hook NAME="AlwaysUnfoldedNode"/>
 </node>
 </node>
-<node TEXT="contexte de l&apos;univers et développement" POSITION="left" ID="ID_1367565358" CREATED="1678040414497" MODIFIED="1678040875430"/>
-<node TEXT="Règles du Jeux" POSITION="left" ID="ID_1139414463" CREATED="1678040879264" MODIFIED="1678040896188"/>
+<node TEXT="contexte de l&apos;univers et développement" POSITION="left" ID="ID_213877698" CREATED="1678202775388" MODIFIED="1678202775391" LINK="MapMind/ContexteDeL&apos;universEtDéveloppement.mm"/>
+<node TEXT="Règles du Jeux" POSITION="left" ID="ID_1139414463" CREATED="1678040879264" MODIFIED="1678203172355" LINK="Règles.odt"/>
 </node>
 </map>
