@@ -77,13 +77,13 @@
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<node TEXT="Première scéance" POSITION="right" ID="ID_131828189" CREATED="1678040390552" MODIFIED="1678202709240">
-<node TEXT="intro au JDR" ID="ID_1355228737" CREATED="1678040486959" MODIFIED="1678040501705"/>
-<node TEXT="Un vol et un meurtre on lieu dans l&apos;auberge ou sont les personages en fonction de leur choix les joueurs trouverons ce qui se trame et peu être réussirons à déjouer les terribles plans des dernier puck dissident" ID="ID_751861480" CREATED="1678040502709" MODIFIED="1678202709239" HGAP_QUANTITY="14.75 pt" VSHIFT_QUANTITY="-5.25 pt">
-<hook NAME="AlwaysUnfoldedNode"/>
+<node TEXT="Première scéance" POSITION="right" ID="ID_501850124" CREATED="1678294257403" MODIFIED="1678294304608" LINK="Scéance1.mm">
+<node TEXT="intro au JDR" ID="ID_1911814869" CREATED="1678294271357" MODIFIED="1678294276630"/>
+<node TEXT="Un vol et un meurtre on lieu dans l&apos;auberge ou sont les personages en fonction de leur choix les joueurs trouverons ce qui se trame et peu être réussirons à déjouer les terribles plans des dernier puck dissident" ID="ID_540928570" CREATED="1678294286417" MODIFIED="1678294304607" HGAP_QUANTITY="15.5 pt" VSHIFT_QUANTITY="-17.25 pt"/>
 </node>
-</node>
-<node TEXT="contexte de l&apos;univers et développement" POSITION="left" ID="ID_213877698" CREATED="1678202775388" MODIFIED="1678202775391" LINK="MapMind/ContexteDeL&apos;universEtDéveloppement.mm"/>
+<node TEXT="contexte de l&apos;univers et développement" POSITION="left" ID="ID_33535854" CREATED="1678293059803" MODIFIED="1678293059805" LINK="Univers.mm"/>
 <node TEXT="Règles du Jeux" POSITION="left" ID="ID_1139414463" CREATED="1678040879264" MODIFIED="1678203172355" LINK="Règles.odt"/>
+<node TEXT="Mes joueurs" POSITION="left" ID="ID_1294510329" CREATED="1678294174650" MODIFIED="1678294174651" LINK="MesJoueurs.mm"/>
+<node TEXT="PNJ" POSITION="left" ID="ID_1192209731" CREATED="1678303160128" MODIFIED="1678303160128" LINK="PNJ.mm"/>
 </node>
 </map>
