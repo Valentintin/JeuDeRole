@@ -124,7 +124,7 @@
 </node>
 </node>
 <node TEXT="La Ville de Tullta où commence notre aventure" POSITION="left" ID="ID_1416913570" CREATED="1678304625534" MODIFIED="1678304657983">
-<hook URI="../Carte/Ilina/tullta.png" SIZE="0.1584786" NAME="ExternalObject"/>
+<hook URI="../Carte/Ilina/tullta.png" SIZE="0.15115303" NAME="ExternalObject"/>
 </node>
 </node>
 </map>
