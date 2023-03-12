@@ -1,6 +1,6 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Mes joueurs" FOLDED="false" ID="ID_552455318" CREATED="1678294130716" MODIFIED="1678398003395" LINK="Jeu%20De%20Rôle.mm"><hook NAME="MapStyle" background="#2e3440" zoom="1.132">
+<node TEXT="Mes joueurs" FOLDED="false" ID="ID_552455318" CREATED="1678294130716" MODIFIED="1678650268976" LINK="Jeu%20De%20Rôle.mm"><hook NAME="MapStyle" background="#2e3440" zoom="1.132">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/dark_nord_template.mm" followedTemplateLocation="template:/dark_nord_template.mm" followedMapLastTime="1678034560173" fit_to_viewport="false"/>
 
 <map_styles>
@@ -76,8 +76,17 @@
 </map_styles>
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<node TEXT="Yecine" POSITION="right" ID="ID_1835293097" CREATED="1678294335086" MODIFIED="1678387346783" HGAP_QUANTITY="15.7561 pt" VSHIFT_QUANTITY="14.04878 pt">
-<node TEXT="" ID="ID_1044856960" CREATED="1678294356365" MODIFIED="1678294430392"/>
+<node TEXT="Yecine" POSITION="right" ID="ID_1835293097" CREATED="1678294335086" MODIFIED="1678650268976" HGAP_QUANTITY="22.78049 pt" VSHIFT_QUANTITY="-131.70732 pt">
+<node TEXT="ZOZO le pélikan" ID="ID_1044856960" CREATED="1678294356365" MODIFIED="1678650225205">
+<node TEXT="tu es un elfe de nuit" ID="ID_600130796" CREATED="1678650226756" MODIFIED="1678650288470">
+<node TEXT="les chevaux long, oreil droite croqué simbole tatoué en bas du coup" ID="ID_1011452486" CREATED="1678650563174" MODIFIED="1678650685794"/>
+</node>
+<node TEXT="227(20 ans humain) | 1.89m, 78kg" ID="ID_1677086082" CREATED="1678650305779" MODIFIED="1678650361269"/>
+<node TEXT="tu es un explorateur, tu es un commerçant ambigus de l&apos;honetée." ID="ID_1996741540" CREATED="1678650362205" MODIFIED="1678650495505">
+<node TEXT="bracelet en croissant de lune, tu la s&apos;imbolisé comme une marque" ID="ID_1324372438" CREATED="1678650583304" MODIFIED="1678650618630"/>
+</node>
+<node TEXT="fils d&apos;un oncle et sa tante tes darons sont en vies mais jamais rencontré" ID="ID_874340479" CREATED="1678650507697" MODIFIED="1678650549992"/>
+</node>
 </node>
 <node TEXT="(Bruce) Red(car il est plus rosé)" POSITION="right" ID="ID_1999520731" CREATED="1678294336169" MODIFIED="1678398003395" VSHIFT_QUANTITY="1.7561 pt">
 <node TEXT="tu es un blob" ID="ID_806372781" CREATED="1678294376701" MODIFIED="1678386438759">
