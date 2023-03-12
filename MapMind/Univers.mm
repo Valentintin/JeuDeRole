@@ -81,11 +81,17 @@
 </node>
 <node TEXT="Tout ce passe avec des cartes qui sont modifiable et générables sur le site azgaar" POSITION="left" ID="ID_520987886" CREATED="1678301460375" MODIFIED="1678301661782" LINK="https://azgaar.github.io/Fantasy-Map-Generator/"/>
 <node TEXT="5 Pays en Gorée" POSITION="right" ID="ID_1168812974" CREATED="1678301667409" MODIFIED="1678301777120">
-<node TEXT=" Royaume de Selmari: Royaume fondé par les Humains, Puissant et stable" ID="ID_349609223" CREATED="1678301785658" MODIFIED="1678301867327"/>
-<node TEXT="Théocraties d&apos;Enath: Fondé par les Hauts elfes très religieux et corrompu par l&apos;ordre enathien" ID="ID_452681458" CREATED="1678301791493" MODIFIED="1678301929256"/>
-<node TEXT="Royaume de Talfond: Fondé par un géant, un nain, un serpentard, Basé sur l&apos;argent Gros problèmes sociaux en conflit avec BARAMON" ID="ID_374404640" CREATED="1678301792572" MODIFIED="1678302128487"/>
-<node TEXT="BARAMON: fondé par des esclaves et des Marxiste en guerre avec Talfon" ID="ID_205682534" CREATED="1678301792966" MODIFIED="1678302146521"/>
-<node TEXT="Grand Duché de Iotaric: terre de mystère où le savoir est maîtres les sciences occultes sont pratiqué problème culturel avec la religion d&apos;Enath" ID="ID_717353501" CREATED="1678301793342" MODIFIED="1678302244484"/>
+<node TEXT="Le Royaume de Ilina, est une nation fière et prospère, fondée il y a des siècles par les Humains et dirigée par une dynastie royale établie depuis longtemps. Le royaume est connu pour sa stabilité politique et sa paix intérieure, qui ont permis de développer une culture multiculturelle unique." ID="ID_349609223" CREATED="1678301785658" MODIFIED="1678635702769">
+<node TEXT="Les habitants du Royaume de Ilina sont pour la plupart des humains, mais d&apos;autres races comme les elfes plus nombreux au sud coexistent pacifiquement avec eux. Les gens sont calmes et amicaux, accueillant les étrangers avec hospitalité. La plupart des citoyens sont des agriculteurs, des artisans et des marchands, bien que certaines familles nobles aient une influence politique et économique significative." ID="ID_282756508" CREATED="1678635718136" MODIFIED="1678635762278"/>
+</node>
+<node TEXT="la Théocratie d&apos;Enath est un pays magnifique et mystique, où la religion et les traditions sont au centre de la vie quotidienne. Cependant, la corruption est une menace constante pour la stabilité de la société, infiltrant le pouvoir et la religion, et menaçant l&apos;harmonie entre les différentes cultures." ID="ID_452681458" CREATED="1678301791493" MODIFIED="1678636063083"/>
+<node TEXT="Le Royaume de Talfond est un endroit étrange et inquiétant, fondé par une alliance improbable entre un géant, un nain et un serpentard. Le paysage est marqué par d&apos;énormes montagnes à l&apos;est et le désert de l&apos;ouest qui abritent des mines d&apos;or et d&apos;argent, la source de la richesse de Talfond. Les villes sont construites autour de ces mines, ce qui donne une apparence chaotique et surpeuplée." ID="ID_374404640" CREATED="1678301792572" MODIFIED="1678636495408"/>
+<node TEXT="Le Pays Libre de BARAMON est un pays en guerre avec Talfond, situé au nord-ouest de ce royaume. BARAMON a été fondé par des esclaves qui se sont libérés de l&apos;emprise de Talfond. Bien qu&apos;il soit un endroit indépendant, BARAMON est extrêmement pauvre en raison de la guerre incessante avec Talfond.&#xa;&#xa;Le gouvernement de BARAMON est basé sur des idéaux socialiste qui cherchent à créer une société égalitaire et juste. Cependant, la guerre et la pauvreté ont conduit à une certaine corruption, et il y a souvent des dissensions au sein du gouvernement.&#xa;&#xa;Malgré la pauvreté et les difficultés, le peuple de BARAMON est fier et résistant. Les habitants sont connus pour leur détermination et leur résilience, et sont prêts à se battre pour leur liberté et leur dignité." ID="ID_205682534" CREATED="1678301792966" MODIFIED="1678636764574">
+<node TEXT="Le pays est composé de vastes étendues de terres arides et inhospitalières, avec des montagnes rocailleuses et des vallées profondes. Les villes de BARAMON sont en grande partie constituées de cabanes et de tentes, avec très peu de bâtiments permanents. La population est composée en majorité d&apos;esclaves et de travailleurs pauvres qui luttent pour leur survie." ID="ID_1791801587" CREATED="1678636772288" MODIFIED="1678636774230"/>
+</node>
+<node TEXT="le Grand Duché de Iotaric est un endroit où la magie et les sciences occultes sont pratiquées et étudiées depuis longtemps, et où la connaissance est considérée comme une richesse inestimable. Le peuple est principalement athée et fier de sa culture mystique, mais doit faire face aux tensions religieuses avec les fidèles d&apos;Enath." ID="ID_717353501" CREATED="1678301793342" MODIFIED="1678636912667">
+<node TEXT="Le pays est connu pour ses vastes bibliothèques et ses écoles de magie, où les étudiants viennent du monde entier pour apprendre les secrets de la magie et de l&apos;occulte. Les habitants de Iotaric sont fiers de leur savoir et considèrent la connaissance comme leur plus grande richesse." ID="ID_348250494" CREATED="1678636934073" MODIFIED="1678636935811"/>
+</node>
 </node>
 <node TEXT="Race connu" POSITION="right" ID="ID_1002641740" CREATED="1678302281900" MODIFIED="1678304144529">
 <cloud COLOR="#f0f0f0" SHAPE="ARC"/>
@@ -104,8 +110,8 @@
 <node TEXT="Serpentard" ID="ID_1118072696" CREATED="1678302336198" MODIFIED="1678302345083">
 <node TEXT="En gros faut visualiser voldemort physiquement, Gros manipulateur" ID="ID_1424265341" CREATED="1678302603753" MODIFIED="1678302658481"/>
 </node>
-<node TEXT="puck" ID="ID_958510753" CREATED="1678302337931" MODIFIED="1678302358656">
-<node TEXT="En rage contre toutes autres espèces, certain ces des nazis d&apos;autre justes des allemand deg d&apos;être allemand genre" ID="ID_1458890575" CREATED="1678302407259" MODIFIED="1678302728935"/>
+<node TEXT="faun" ID="ID_958510753" CREATED="1678302337931" MODIFIED="1678646018015">
+<node TEXT="En rage contre toutes autres espèces, certains mi-homme mi-bélier ces des nazis d&apos;autre justes des allemand deg d&apos;être allemand genre" ID="ID_1458890575" CREATED="1678302407259" MODIFIED="1678646030138"/>
 <node TEXT="Sert clairement les force du mal" ID="ID_786857157" CREATED="1678302804636" MODIFIED="1678302817776"/>
 </node>
 <node TEXT="Centaure" ID="ID_1922740748" CREATED="1678302360828" MODIFIED="1678302401605">
