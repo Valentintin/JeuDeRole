@@ -1,6 +1,6 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Mes joueurs" FOLDED="false" ID="ID_552455318" CREATED="1678294130716" MODIFIED="1678650268976" LINK="Jeu%20De%20Rôle.mm"><hook NAME="MapStyle" background="#2e3440" zoom="1.132">
+<node TEXT="Mes joueurs" FOLDED="false" ID="ID_552455318" CREATED="1678294130716" MODIFIED="1678747015805" LINK="Jeu%20De%20Rôle.mm"><hook NAME="MapStyle" background="#2e3440" zoom="1.132">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/dark_nord_template.mm" followedTemplateLocation="template:/dark_nord_template.mm" followedMapLastTime="1678034560173" fit_to_viewport="false"/>
 
 <map_styles>
@@ -108,8 +108,12 @@
 </node>
 <node TEXT="tu veux l&apos;amité et la paix entre les elfes religieux et les athé corrompu" ID="ID_1751520698" CREATED="1678386866405" MODIFIED="1678387098361"/>
 </node>
-<node TEXT="Noé" POSITION="right" ID="ID_208648656" CREATED="1678294334303" MODIFIED="1678294350966">
-<node TEXT="" ID="ID_1363081516" CREATED="1678294375616" MODIFIED="1678294375616"/>
+<node TEXT="(Noé) Whyeijdaineuh(M)" POSITION="right" ID="ID_208648656" CREATED="1678294334303" MODIFIED="1678747228091" HGAP_QUANTITY="17.5122 pt" VSHIFT_QUANTITY="86.92683 pt">
+<node TEXT="1.25M(grand lapin) | 25KG | 6 ans(jeune adulte)" ID="ID_1363081516" CREATED="1678294375616" MODIFIED="1678747176432"/>
+<node TEXT="tu es un grand lapin mi-Homme mi-Lapin" ID="ID_1541428407" CREATED="1678747074925" MODIFIED="1678747126922"/>
+<node TEXT="terrièrisé (marrige avec les lapine yassmine) vous vivé sur une île de lapin &quot;la tombe&quot; il s&apos;est perdu en mer, il ne sais pas où se trouve l&apos;île." ID="ID_1362607254" CREATED="1678747229782" MODIFIED="1678747549519"/>
+<node TEXT="veut retrouvé ta dulciné yasmine qui était sur le bateau avec lui" ID="ID_1260214221" CREATED="1678747551454" MODIFIED="1678747597463"/>
+<node TEXT="il a une oreil bouffé et un cache oeil" ID="ID_1911260659" CREATED="1678747494356" MODIFIED="1678747509190"/>
 </node>
 <node TEXT="Celestine" POSITION="right" ID="ID_1628860384" CREATED="1678294343582" MODIFIED="1678294367305">
 <node TEXT="" ID="ID_134740553" CREATED="1678294396830" MODIFIED="1678294396830"/>

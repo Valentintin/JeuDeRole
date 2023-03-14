@@ -120,6 +120,9 @@
 <node TEXT="Blob" ID="ID_1104463881" CREATED="1678386103355" MODIFIED="1678386109804">
 <node TEXT="un truc gelatineux" ID="ID_211977815" CREATED="1678386110315" MODIFIED="1678386140299"/>
 </node>
+<node TEXT="les loups" ID="ID_621243240" CREATED="1678747639370" MODIFIED="1678747686890">
+<node TEXT="des  mi-homme mi-lapin, agile, n&apos;appressie pas la lumière du jour mais de nuit plus simple à chassé, yeux rouge" ID="ID_1529033021" CREATED="1678747665477" MODIFIED="1678747733428"/>
+</node>
 </node>
 </node>
 </map>
